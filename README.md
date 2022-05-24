@@ -5,8 +5,10 @@ In this repository, is presented the implementation of a "Convolutional neural n
 
 In the "script_pcap_to_csv" file, the pcap files provided by the authors of [1] are processed. Then these files are used to create the model.
 
-## Referência
+## References
 
  - [[1] Convolutional neural network-based intrusion detection system for AVTP streams in automotive Ethernet-based networks](https://doi.org/10.1016/j.vehcom.2021.100338)
 
 
+Author: Pedro R. X. Carmo
+(prxc.dev)
